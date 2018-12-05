@@ -1,3 +1,7 @@
+# A collection of stats functions, writing as practice to teach myself Python.
+
+import panda as pd
+
 def findWeightedAverage(numbers, weights):
 	sumCombined = 0
 	sumWeights = 0
